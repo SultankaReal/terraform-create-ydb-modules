@@ -11,7 +11,7 @@
 ### - terraform apply
 
 
-### 1) In order to create serverless OR dedicated YDB resource you should:
+### 2) In order to create serverless OR dedicated YDB resource you should:
 ### - define variables in variables.tf files in the root and appropriate folders
 ### - terraform init
 ### - terraform validate
